@@ -1,0 +1,6 @@
+F:\study\progs\CSharp\TriangleNumsMaxSum\TriangleNumsMaxSum\bin\Debug\TriangleNumsMaxSum.exe.config
+F:\study\progs\CSharp\TriangleNumsMaxSum\TriangleNumsMaxSum\bin\Debug\TriangleNumsMaxSum.exe
+F:\study\progs\CSharp\TriangleNumsMaxSum\TriangleNumsMaxSum\bin\Debug\TriangleNumsMaxSum.pdb
+F:\study\progs\CSharp\TriangleNumsMaxSum\TriangleNumsMaxSum\obj\Debug\TriangleNumsMaxSum.csprojResolveAssemblyReference.cache
+F:\study\progs\CSharp\TriangleNumsMaxSum\TriangleNumsMaxSum\obj\Debug\TriangleNumsMaxSum.exe
+F:\study\progs\CSharp\TriangleNumsMaxSum\TriangleNumsMaxSum\obj\Debug\TriangleNumsMaxSum.pdb
